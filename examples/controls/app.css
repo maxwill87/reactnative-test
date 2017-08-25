@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: #000;
+}
+
+.city-pin {
+  cursor: pointer;
+  fill: #d00;
+  stroke: none;
+}
+
+.nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+}
